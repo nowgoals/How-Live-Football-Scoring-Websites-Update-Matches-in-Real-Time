@@ -3,7 +3,6 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>How Live Football Scoring Websites Update Matches in Real Time</title>
 </head>
 <body>
   <h1>How Live Football Scoring Websites Update Matches in Real Time</h1>
